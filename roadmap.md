@@ -1,37 +1,57 @@
-# OLS/DRI EDIA Project Roadmap 
+# Alliance DRI EDIA Champions Project Roadmap
 
-## Project Title: &nbsp; "Advancing and Promoting Quantum Computing Using Alliance DRI to Current and Future Quantum Scientists"
-### Project Lead: &nbsp;  Jaimie Greasley 
+## Title: &nbsp; "Advancing and Promoting Quantum Computing Using Alliance DRI to Current and Future Quantum Scientists"
 
-*Project Mission, Project Summary and Welcome*
-*How to Get Involved*
-*Timeline - Milestones and Tasks*
+*Project Lead: Jaimie Greasley*
 
-**Mission Statement**
-A mission statement details the project's objectives and how ‘we’ will reach them. It is usually one sentence or a short paragraph.
+### Project Summary and Mission :rocket:
 
-- What is your project’s objective (what your project does)
-- How does your project address the stated objective
-- What would be your project’s next steps (improving the process for community engagement and project development)
+The limitations of present-day quantum hardware for implementing scaled quantum circuits - and thereby solving practical scientific problems - are well acknowledged. High-performance computing (HPC) is a suitable alternative for preliminary quantum simulations in the current and near-term. This proposal aims to leverage the Digital Research Alliance's (DRA) HPC infrastructure to evaluate different quantum simulation methods, and promote the DRA's resources as an additional platform available to quantum computing researchers across Canada. 
 
-**Roadmap**
-A roadmap is a high-level strategic view of goals and objectives presented in a timeline. 
+Additionally, this initiative focuses on advancing quantum computing education through outreach workshops for high school students on Vancouver Island, and potentially targeting women and visible minorities. The goal is to raise awareness of Canadian HPC resources among quantum researchers and to foster diversity in technological fields.
 
-- The roadmap is supplemented with details such as scope, resources, ways of working, risks
-- The roadmap does not provide task-level details. (For task-level details, see project charter).
-- In your time, collect the following information to build your project roadmap:
-  -  Project Vision & Mission
-  - Important short-term and long-term goals and milestones: This can be based on your priority tasks and project deliverables
-  - Scope:
-    - What is in scope
-    - what is not in scope
-  - Resources available in the project
-  - Dependencies among different objectives
-  - Ways of working
-    -  Roles and responsibilities
-    -  Communication and reporting
-    -   Decision-making process
-  - Possible risks
-  - [Anything else]
+### Project Milestone 1: Short Promotional Video Series :clapper:
+
+**Description** 
+This video series features a tour of the Arbutus Data Center at the University of Victoria and how the facility is run, in order to garner an appreciation for high-performance computing behind-the-scenes. Furthermore, various research groups at the University of Victoria are spotlightlighted on the nature of their work and their use of DRA's HPC resources.  
+
+**Tasks** 
+- Invitations to UVic personnel, faculty and students to participate in video project
+- Coordination with Media Services
+- Project filming
+- Preliminary editing 
+- First review and second editing 
+- Video finalization 
+- Social media promotion
+
+### Project Milestone 2: Quantum Computing and Programming Workshop for High School Students :woman_technologist: :man_technologist: :atom_symbol:
+
+**Description** 
+
+The high school outreach is in collaboration with Let's Talk Science Canada. The workshop entails a simple introduction to high performance computing, quantum computing and basic quantum programming. Program materials includes one of the promotional videos, prepared interactive slides, a demo kit, and a programming tutorial website.
+
+**Tasks** 
+- Preliminary workshop program and tutorial website development 
+- Workshop program and website review and finalization
+- 1-3 High school visits
+- Computer Science Symposium for high school students at University of Victoria on February 20, 2025. 
+- Social media promotion
+
+### Project Milestone 3: Quantum Webinar(s) on Quantum Computing Research using Alliance DRI :calendar:
+
+**Description**
+
+I shall use the strong network of quantum computing research groups and organizations within British Columbia to host the webinars on the use of DRA's research infrasture resources for quantum computing and specifically highlight my own experience. 
+
+
+**Tasks** 
+- Digital Research Alliance HPC training 
+- Preliminary tests using Qiskit, Snowflurry and DMRJulia 
+- Main project 
+- Finalizing results 
+- Report write-up
+- Seminar preparation 
+- 1-2 Seminars 
+- Social media promotion
 
 
